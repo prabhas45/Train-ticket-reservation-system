@@ -214,11 +214,3 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 13. Add Trains By Admin
 <img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
-
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
-=======
-# Train-ticket-reservation-system
-A train ticket reservation system java project 
->>>>>>> 4eeb46879203d4d4c77bb1f4537a38c83b7967ea
